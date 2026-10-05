@@ -11,7 +11,7 @@ A Python program that prompts the user for a text sentence, verifies that it is 
 - PyCharm Community Edition
 - Git
 
-## How to Run
+## How to Run 
 1. Open the project in PyCharm.
 2. Ensure the virtual environment (`.venv`) with Python 3.12 is selected.
 3. Right-click `main.py` and choose **Run 'main'** (or run `python main.py` in the terminal).
@@ -28,4 +28,4 @@ A Python program that prompts the user for a text sentence, verifies that it is 
   - Output: `Word count: 4`, `Character count (including spaces): 45`
 
 ## Limitation
-The program counts all characters including punctuation and whitespace, and words are split purely on whitespace (hyphenated words or contractions like `don't` are counted as a single word).
+The program counts all characters including punctuation and whitespace, and words are split purely on whitespace (hyphenated words or contractions like `don't` are counted as a single word)."# panmee" 
